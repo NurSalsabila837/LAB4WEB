@@ -1,6 +1,6 @@
 # LAB4WEB
-## Nama : Khairinisya Ani .A.
-## NIM  : 312310365
+## Nama : NURSALSABILA
+## NIM  : 312310344
 ## kelas :TI 23 A.4
 - MEMBUAT BOX ELEMENT
 ![Img 1]<img <img width="959" alt="HASIL1" src="https://github.com/user-attachments/assets/2d36d9af-b6d2-4a1e-9d60-e00e9a1d32a1">
@@ -17,7 +17,7 @@
 
 PERTANYAAN DAN TUGAS
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
-![Screenshot 2024-10-23 175310](https://github.com/user-attachments/assets/c60a6c12-dac3-4556-95a2-9a1f0484f6e4)
+   
 
-2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
-![Screenshot 2024-10-23 175149](https://github.com/user-attachments/assets/8134728f-e65a-4763-a61d-2750c6a2dd54)
+3. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+
