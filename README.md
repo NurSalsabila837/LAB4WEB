@@ -21,4 +21,6 @@ PERTANYAAN DAN TUGAS
    
 
 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+![Screenshot 2024-10-23 210414](https://github.com/user-attachments/assets/a4ace5bb-a884-4d5e-9469-4b8ac6e23ac1)
+
 
